@@ -69,11 +69,14 @@ classification_report1
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
-
+### Head:
 ![196478925-813e8a4e-b32a-4ef3-b88e-cac875b00d3b](https://user-images.githubusercontent.com/93992063/196856491-de955391-5cf5-4a43-82b9-787aa79c806c.png)
+### Predicted values:
 ![196478995-570d7c28-ec74-4a22-a986-b9268447b217](https://user-images.githubusercontent.com/93992063/196856545-02c814a9-6286-4a8a-8a4d-58a73cd96345.png)
+
 ![196479062-da41501a-7c2d-4702-9a25-44a43772eb02](https://user-images.githubusercontent.com/93992063/196856556-5011f4e8-3136-4512-898f-877fdb7a4d8c.png)
 ![196479116-ac364f28-141d-43fe-8f5f-ed9b740fbf41](https://user-images.githubusercontent.com/93992063/196856572-c94bc869-d2dd-4429-b3fb-20a7ef6c2d18.png)
+### Classification Report:
 ![196479205-7da2b9e1-5a0f-40bd-9b3f-eb8fcc6e94e8](https://user-images.githubusercontent.com/93992063/196856582-b601515e-e46d-481b-bf4a-f0a049174dde.png)
 
 
