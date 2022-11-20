@@ -9,11 +9,17 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Import the standard libraries.
+
 2.Upload the dataset and check for any null or duplicated values using .isnull() and .duplicated() function respectively.
+
 3.Import LabelEncoder and encode the dataset.
+
 4.Import LogisticRegression from sklearn and apply the model on the dataset.
+
 5.Predict the values of array.
+
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+
 7.Apply new unknown values
 
 
@@ -69,15 +75,23 @@ classification_report1
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
-### Head:
-![196478925-813e8a4e-b32a-4ef3-b88e-cac875b00d3b](https://user-images.githubusercontent.com/93992063/196856491-de955391-5cf5-4a43-82b9-787aa79c806c.png)
-### Predicted values:
-![196478995-570d7c28-ec74-4a22-a986-b9268447b217](https://user-images.githubusercontent.com/93992063/196856545-02c814a9-6286-4a8a-8a4d-58a73cd96345.png)
+![200621130-7cbde7df-d1d2-449c-aafa-d5c404639720](https://user-images.githubusercontent.com/93992063/202885460-47bfad33-2e86-4623-bb47-5b22a63bf7b8.png)
+![200621153-a98cc3b5-dd84-4317-bd9f-2d37a1a2ce55](https://user-images.githubusercontent.com/93992063/202885463-1811a5da-9c97-4f6b-9860-6197ddc4ade6.png)
 
-![196479062-da41501a-7c2d-4702-9a25-44a43772eb02](https://user-images.githubusercontent.com/93992063/196856556-5011f4e8-3136-4512-898f-877fdb7a4d8c.png)
-![196479116-ac364f28-141d-43fe-8f5f-ed9b740fbf41](https://user-images.githubusercontent.com/93992063/196856572-c94bc869-d2dd-4429-b3fb-20a7ef6c2d18.png)
-### Classification Report:
-![196479205-7da2b9e1-5a0f-40bd-9b3f-eb8fcc6e94e8](https://user-images.githubusercontent.com/93992063/196856582-b601515e-e46d-481b-bf4a-f0a049174dde.png)
+![200621216-0705583c-3a84-428d-80ea-271772851342](https://user-images.githubusercontent.com/93992063/202885468-ff529ba5-4ad4-47cb-a729-32fcf9ce6594.png)
+
+![200621264-dd3790d1-7b1f-4313-a5fb-a45d21e2b60a](https://user-images.githubusercontent.com/93992063/202885472-e150ec9c-49a4-427c-b3aa-6f38b26c57c3.png)
+![200621314-54c9d8ea-c343-4841-aab8-80f93a9f4033](https://user-images.githubusercontent.com/93992063/202885474-2d3bf185-a311-4f0f-af8e-94c1a8164eae.png)
+
+![200621361-90a5c368-a427-4c22-87a7-07d3e5731724](https://user-images.githubusercontent.com/93992063/202885483-fb44c0f4-ef90-4d87-8698-a01a7c94228a.png)
+![200621441-3ba11f56-6c9e-43a6-9aff-91d02230ce5b](https://user-images.githubusercontent.com/93992063/202885494-d0598b2d-6fd1-428a-b375-5a69e51e927e.png)
+![200621467-0b672fc5-3a3a-46a7-9da6-deb729dc56c6](https://user-images.githubusercontent.com/93992063/202885499-c800ec14-fe5e-48c7-8dc2-7053cd087697.png)
+![200621467-0b672fc5-3a3a-46a7-9da6-deb729dc56c6](https://user-images.githubusercontent.com/93992063/202885532-e05f8e27-2331-432f-9abb-125efcb8a588.png)
+
+![200621501-e7c247ef-b790-4b58-a32a-4810d716111b](https://user-images.githubusercontent.com/93992063/202885508-b0126681-1d69-44fb-96a4-964b3fec9444.png)
+
+![200621542-1a828fb3-693e-45c2-81ca-b3692d303c74](https://user-images.githubusercontent.com/93992063/202885502-21b44337-516d-43ac-ad74-fe49da4579f2.png)
+
 
 
 ## Result:
