@@ -79,19 +79,22 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![200621153-a98cc3b5-dd84-4317-bd9f-2d37a1a2ce55](https://user-images.githubusercontent.com/93992063/202885463-1811a5da-9c97-4f6b-9860-6197ddc4ade6.png)
 
 ![200621216-0705583c-3a84-428d-80ea-271772851342](https://user-images.githubusercontent.com/93992063/202885468-ff529ba5-4ad4-47cb-a729-32fcf9ce6594.png)
+![200621219-4da55088-4b6d-4317-965c-b61c08727062](https://user-images.githubusercontent.com/93992063/202885600-b74e737b-c5ec-435e-ac96-c5c84951294e.png)
 
 ![200621264-dd3790d1-7b1f-4313-a5fb-a45d21e2b60a](https://user-images.githubusercontent.com/93992063/202885472-e150ec9c-49a4-427c-b3aa-6f38b26c57c3.png)
 ![200621314-54c9d8ea-c343-4841-aab8-80f93a9f4033](https://user-images.githubusercontent.com/93992063/202885474-2d3bf185-a311-4f0f-af8e-94c1a8164eae.png)
 
 ![200621361-90a5c368-a427-4c22-87a7-07d3e5731724](https://user-images.githubusercontent.com/93992063/202885483-fb44c0f4-ef90-4d87-8698-a01a7c94228a.png)
+
 ![200621441-3ba11f56-6c9e-43a6-9aff-91d02230ce5b](https://user-images.githubusercontent.com/93992063/202885494-d0598b2d-6fd1-428a-b375-5a69e51e927e.png)
-![200621467-0b672fc5-3a3a-46a7-9da6-deb729dc56c6](https://user-images.githubusercontent.com/93992063/202885499-c800ec14-fe5e-48c7-8dc2-7053cd087697.png)
+
 ![200621467-0b672fc5-3a3a-46a7-9da6-deb729dc56c6](https://user-images.githubusercontent.com/93992063/202885532-e05f8e27-2331-432f-9abb-125efcb8a588.png)
 
 ![200621501-e7c247ef-b790-4b58-a32a-4810d716111b](https://user-images.githubusercontent.com/93992063/202885508-b0126681-1d69-44fb-96a4-964b3fec9444.png)
 
 ![200621542-1a828fb3-693e-45c2-81ca-b3692d303c74](https://user-images.githubusercontent.com/93992063/202885502-21b44337-516d-43ac-ad74-fe49da4579f2.png)
 
+![200621569-a50c2ad2-0852-4607-90c2-f2d8c429f03b](https://user-images.githubusercontent.com/93992063/202885621-aab3ba12-9f84-4c04-810b-9c7694e61efb.png)
 
 
 ## Result:
